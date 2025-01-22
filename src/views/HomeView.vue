@@ -1,9 +1,7 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="flex flex-col">
+    <div class="default-layout">import AutoComplete from 'primevue/autocomplete';</div>
+  </div>
 </template>
